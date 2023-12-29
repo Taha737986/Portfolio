@@ -108,8 +108,7 @@
                 <div>
                     <i class="fa-solid fa-code"></i>
                     <h2>Web Design</h2>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quaerat autem cum laudantium quos est dolore a. 
-                        Impedit aliquid ut ea quia quidem beatae fuga, pariatur commodi omnis perferendis voluptatem. Deleniti.</p>
+                    <p>Web design is the creation of websites and pages to reflect a company's brand and information and ensure a user-friendly experience. Appearance and design are incorporated as vital elements whether you're designing a website, mobile app or maintaining content on a web page..</p>
                         <a href="#">Learn More</a>
                 </div>
                 <div>
